@@ -1,0 +1,1 @@
+run = "javac Deck.java DeckTester.java;java -ea DeckTester"
